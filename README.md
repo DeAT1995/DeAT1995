@@ -1,6 +1,6 @@
 ### Hi there , I'm Debora Tavares👋
 
-👩‍💻 I'm Junior Developer with a background in Law and a passion for technology.
+👩‍💻 I'm Developer with a background in Law and a passion for technology.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/deboraaguiartavares/) and check out my projects on [GitHub](https://github.com/DeAT1995). I am excited to connect and explore new possibilities!
 
